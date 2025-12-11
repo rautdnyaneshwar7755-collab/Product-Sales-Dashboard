@@ -2,7 +2,7 @@
 
 # Product Sales Analysis Dashboard
 
-![Dashboard](YOUR_IMAGE_URL_HERE)
+![Dashboard](https://github.com/rautdnyaneshwar7755-collab/Product-Sales-Dashboard/blob/main/Screenshot%202025-12-08%20171442.png)
 
 ## Overview
 This dashboard provides key insights into product sales, profit, customer behavior, payment modes, and regional performance.
